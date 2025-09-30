@@ -2,7 +2,7 @@
 import { BsWhatsapp } from "react-icons/bs";
 
 export default function WhatsAppLog() {
-  const phoneNumber = "919605665399";
+  const phoneNumber = "919895089017";
   const message = "Hello Shafeeq! I checked your portfolio and would like to discuss opportunities with you.";
   const whatsappUrl = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
 
