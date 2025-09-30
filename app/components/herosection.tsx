@@ -40,7 +40,7 @@ export default function HeroSection() {
       {/* Text Content */}
       <div className="select-none text-center max-w-3xl space-y-4">
         <h1 className="text-white text-2xl sm:text-5xl md:text-6xl font-bold">
-          Hi, I'm <span className="text-purple-800">Shafeeq</span>
+          {"Hi, I'm"} <span className="text-purple-800">Shafeeq</span>
         </h1>
 
         <h2 className="text-gray-200 text-xl sm:text-2xl md:text-3xl font-semibold">

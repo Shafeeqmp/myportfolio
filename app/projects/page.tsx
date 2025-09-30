@@ -261,11 +261,11 @@ export default function ProjectPage() {
       Like what you see?
     </h2>
     <p className="text-gray-300 mb-6">
-      I'm always open to discussing new opportunities and creative projects.
+     { "I'm always open to discussing new opportunities and creative projects."}
     </p>
     <Link href="/contact">
       <button className="px-8 py-3 bg-gradient-to-r from-blue-600 to-purple-600 text-white rounded-xl shadow-lg hover:shadow-purple-500/25 transition-all duration-300 hover:scale-105 font-semibold">
-        Let's Work Together
+        {"Let's Work Together"}
       </button>
     </Link>
   </div>
