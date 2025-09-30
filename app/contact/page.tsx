@@ -18,6 +18,7 @@ export default function ContactPage() {
             type="text"
             className="bg-white/20 text-white border border-white/40 rounded-sm w-full p-2 cursor-text
                        focus:outline-none focus:ring-2 focus:ring-blue-400"
+                       required
           />
         </div>
 
@@ -30,6 +31,7 @@ export default function ContactPage() {
             type="email"
             className="bg-white/20 text-white border border-white/40 rounded-sm w-full p-2
                        focus:outline-none focus:ring-2 focus:ring-blue-400"
+                       required
           />
         </div>
 
@@ -42,6 +44,7 @@ export default function ContactPage() {
             name="message"
             className="bg-white/20 text-white border border-white/40 rounded-sm w-full p-2
                        focus:outline-none focus:ring-2 focus:ring-blue-400"
+                       required
           ></textarea>
         </div>
 
